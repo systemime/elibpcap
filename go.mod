@@ -1,4 +1,4 @@
-module github.com/jschwinger233/elibpcap
+module github.com/systemime/elibpcap
 
 go 1.21.0
 
